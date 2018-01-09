@@ -8,5 +8,5 @@ var showInnerText = firstItem.innerText;
 var msg = '<p> textContent: ' + showTextContent + '</p>';
 msg += '<p> innerText: ' +  showInnerText + '</p>';
 var el = document.getElementById('scriptResults');
-el.innerHTML = msg;
+el.innerHTML = msg;  
 firstItem.textContent = 'sourdougth bread';
