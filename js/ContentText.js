@@ -10,3 +10,4 @@ msg += '<p> innerText: ' +  showInnerText + '</p>';
 var el = document.getElementById('scriptResults');
 el.innerHTML = msg;  
 firstItem.textContent = 'sourdougth bread';
+alert('Hola Mundo');
